@@ -22,7 +22,7 @@
     <h2>⚡ My Technical Stack ⚡</h2>
     <p><a href="https://github.com/Neon-K9">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="55" height="55">&nbsp;
-    <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" width="55" height="55">&nbsp;
+    <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" width="105" height="55">&nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="55" height="55">&nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="55" height="55">&nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="55" height="55">&nbsp;
