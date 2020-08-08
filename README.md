@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/Neon-K9">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Neon-K9&show_icons=true&hide=issues&theme=buefy" alt="Kamlesh's github stats" />
+    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Neon-K9&show_icons=true&hide=issues&theme=buefy"/>
     </a>
     <a href="https://github.com/Neon-K9"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Neon-K9&layout=compact&theme=buefy" /></a>
 </div>
