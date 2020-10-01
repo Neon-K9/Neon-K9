@@ -62,7 +62,7 @@
     <h2>🤝 Connect With Me 🤝</h2>
     <p>
     <a href="https://www.linkedin.com/in/kamlesh-patil-53b151177"><img src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/Kamlesh53097397"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="55" height="55"></a>
+    <a href="https://twitter.com/KamleshPatil91"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="55" height="55"></a>
     <a href="https://medium.com/@kpkamleshpatil333"><img src="https://img.icons8.com/color/55/000000/medium-monogram.png"/></a>
     <a href="https://www.instagram.com/neon_k9/"><img src="https://img.icons8.com/cute-clipart/55/000000/instagram-new.png"/></a>
     <!-- <a href=""><img src="" width="55" height="55"></a> -->
